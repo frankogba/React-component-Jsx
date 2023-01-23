@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* background-image: url("./Asset/ReactImg.jpg"); */
+}
+
+.foto {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  border: 5px solid #fff;
+  border-radius: 50%;
+  background-size: 100% 100%;
+  margin: 10% auto;
+  overflow: hidden;
+}
+
+.link {
+  text-align: center;
+}
+
+.link h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: aqua;
+  text-decoration: none;
+}
+
+.link a {
+  text-decoration: none;
+}
+
+.googlemap {
+  text-align: center;
+  color: #DC143C;
+}
